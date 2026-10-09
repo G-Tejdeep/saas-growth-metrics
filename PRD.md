@@ -1,4 +1,4 @@
-# 🚀 SaaS Product Growth, Onboarding Funnel & Retention Analytics Portfolio Project
+# SaaS Product Growth, Onboarding Funnel & Retention Analytics 
 
 ## 1. Executive Summary
 This project simulates a data-driven Growth & Product Analytics environment for a B2B SaaS company operating across diverse industries (Fintech, Healthcare, E-commerce, EdTech, SaaS). The primary objective is to track, analyze, and optimize user onboarding conversion funnels and product activation loops using **Python, PostgreSQL, SQL, and DBeaver**. 
